@@ -1,4 +1,4 @@
 # react-patika
 an introduction to react
 
-![otuput](figures/Capture.PNG)
+![otuput](src/output.PNG)
